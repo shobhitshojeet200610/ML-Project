@@ -1,0 +1,21 @@
+age,policy_number,policy_state,incident_type,incident_severity,vehicle_claim,property_claim,total_claim_amount,fraud_reported
+25,1001,OH,Collision,Minor Damage,1200,300,1500,0
+45,1002,CA,Theft,Total Loss,15000,5000,20000,1
+39,1003,TX,Collision,Major Damage,8000,2000,10000,1
+30,1004,NY,Parked Car,Minor Damage,500,200,700,0
+50,1005,CA,Theft,Total Loss,20000,8000,28000,1
+28,1006,TX,Collision,Minor Damage,1000,300,1300,0
+60,1007,FL,Fire,Major Damage,12000,4000,16000,1
+22,1008,OH,Collision,Minor Damage,700,200,900,0
+48,1009,CA,Theft,Total Loss,18000,6000,24000,1
+35,1010,NY,Parked Car,Minor Damage,600,150,750,0
+41,1011,TX,Collision,Major Damage,9000,2500,11500,1
+29,1012,FL,Collision,Minor Damage,1100,400,1500,0
+55,1013,CA,Fire,Total Loss,22000,9000,31000,1
+33,1014,OH,Parked Car,Minor Damage,400,100,500,0
+47,1015,TX,Collision,Major Damage,10000,3000,13000,1
+26,1016,NY,Collision,Minor Damage,900,200,1100,0
+52,1017,FL,Theft,Total Loss,25000,10000,35000,1
+31,1018,CA,Collision,Minor Damage,1300,500,1800,0
+44,1019,TX,Fire,Major Damage,15000,5000,20000,1
+27,1020,OH,Parked Car,Minor Damage,300,100,400,0
